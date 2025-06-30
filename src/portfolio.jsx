@@ -171,7 +171,7 @@ const Portfolio = () => {
           
           <div className="relative">
             <img 
-              src="/my_professional_pic_resized.jpg"
+              src="/portfolio/my_professional_pic_resized.jpg"
               alt="Portrait"
               className=" max-w-md mx-auto h-125 rounded-lg grayscale"
             />
